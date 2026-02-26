@@ -103,13 +103,4 @@ Open: http://127.0.0.1:8000
 ![Settings](https://i.ibb.co/vsGPXpN/spa5.png)
 
 
-## Tech Stack
 
-**Client:** Vue.js, Pinia, Axios, Bootstrap, sweetalert2
-
-**Server:** PHP8.2, Laravel10.x, Liveware, Bootstrap
-
-
-## Authors
-
-- [@devamirul](https://www.github.com/devamirul)
